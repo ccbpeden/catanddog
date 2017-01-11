@@ -1,0 +1,13 @@
+#hiddendoggy {
+  display: none;
+  float: left;
+}
+
+#hiddenkitty {
+  display: none;
+  float: left;
+}
+
+body {
+  display: block;
+}
