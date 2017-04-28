@@ -1,4 +1,4 @@
-# _JS, JQ, Bootstrap, CSS Practice_
+# _Picture of Cats & Dogs!_
 
 #### By _**Charles Peden**_
 
